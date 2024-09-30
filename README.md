@@ -29,7 +29,7 @@ I will add more......
 1. **Clone the repository:**
 
    ```shell
-      git clone git@github.com:JM-TEFFU/DevOps-Notes.git
+      git clone https://github.com/JM-TEFFU/DevOps-Notes.git
    ```
 
 
